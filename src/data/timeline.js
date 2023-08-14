@@ -21,8 +21,8 @@ export default [
   },
   {
     year: "2013",
-    title: "Faculty of Humanity in Vietnamese",
+    title: "Srinakharinwirot University",
     duration: "4 year",
-    detail: "Voiceover for advertisement on Tiktok commercial",
+    detail: "Bachelor of Art: Faculty of Humanity in Vietnamese",
   },
 ];
